@@ -12,7 +12,7 @@ A prototype security system that uses unsupervised machine learning to identify 
 
 ## 📸 Demonstration
 
-![Monitor NIDS Dashboard](assets/dashboard-screenshot.png)
+![Monitor NIDS Dashboard](assets/dashboard-screenshot282.png)
 *The Streamlit dashboard allows analysts to interact with the detection system, adjusting the anomaly threshold and inspecting flagged flows.*
 
 **Example Detection:**
